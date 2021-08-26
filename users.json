@@ -1,0 +1,8 @@
+{"_id":{"$oid":"611c4e95c6ff3866486bafd5"},"FavoriteMovies":[],"Username":"Gerald","Password":"Atheist","Email":"therealGeegee@gmail.com","__v":0}
+{"_id":{"$oid":"611ce5bc422c6765a4f4327e"},"FavoriteMovies":[],"Username":"Egie","Password":"Asada","Email":"Geegee@gmail.com","__v":0}
+{"_id":{"$oid":"6121a8c6c783143f1c965ddf"},"FavoriteMovies":[],"Username":"Field_Emperor","Password":"CarvedinChaos","Email":"fieldemperor@gmail.com","Birthday":{"$date":"1990-04-30T00:00:00Z"},"__v":0}
+{"_id":{"$oid":"612641b1c615f93454768fa8"},"FavoriteMovies":[],"Username":"FieldEmperor","Password":"$2b$10$ALMqGLjkeSMGfRSHGlmqTu6e/Qs7ZJLEzk95wjQyIx920OR7bzUSi","Email":"fieldemperor@gmail.com","Birthday":{"$date":"1990-04-30T00:00:00Z"},"__v":0}
+{"_id":{"$oid":"6126442ac615f93454768fab"},"FavoriteMovies":[],"Username":"Egie2","Password":"$2b$10$WZSjDJEQYc8yXfNiI07tjuLbQh4WYL8Y7wFx3FOlYmds2RJb2E./e","Email":"Egie2@gmail.com","Birthday":{"$date":"1988-04-30T00:00:00Z"},"__v":0}
+{"_id":{"$oid":"6126445fc615f93454768fae"},"FavoriteMovies":[],"Username":"Geegee","Password":"$2b$10$zFN9GppeWkK8564m/G07IO7PIZP3692Tf.cJ/rTLlX2AlIdMlq7Ye","Email":"geegee@gmail.com","Birthday":{"$date":"1990-07-15T00:00:00Z"},"__v":0}
+{"_id":{"$oid":"6126f1bb29f6f96890a2cd8a"},"FavoriteMovies":[],"Username":"Uwarevised","Password":"$2b$10$sjU.gxgAkthxLBKNLbYVSOH5AtsCkutESxG/XPJLiLj8AjPB/AZq.","Email":"uwa2@gmail.com","Birthday":{"$date":"1987-11-27T00:00:00Z"},"__v":0}
+{"_id":{"$oid":"6126f28629f6f96890a2cd8d"},"FavoriteMovies":[],"Username":"Otemeno","Password":"$2b$10$vRsyikLUKBjIY7eCEfLt8.pHie0lmssJtSvP17A2KKVw.L2I6xB5q","Email":"otemeno2@gmail.com","Birthday":{"$date":"1987-11-27T00:00:00Z"},"__v":0}
