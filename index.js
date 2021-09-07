@@ -187,6 +187,7 @@ app.delete('/users/:Username', (req, res) => {
 
 //Get all movies
 app.get('/movies', function (req, res) {
+    passport.authenticate('jwt', { session: false })
     Movies.find()
         .then((movies) => {
             res.status(201).json(movies);
